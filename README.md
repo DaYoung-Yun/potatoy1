@@ -1,6 +1,8 @@
 #### Hi there 👋
 ---
 🌱 I’m currently learning<br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
 <img src="https://img.shields.io/badge/Java-A100FF?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
