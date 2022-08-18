@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-007ACC?flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br>🔨TOOL<br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
